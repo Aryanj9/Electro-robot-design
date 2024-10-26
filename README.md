@@ -1,20 +1,6 @@
-# University-Projects
+# ELEC1100 - Electro-robot design
 
-This repository contains information about my practical engineering experiences in University so far. 
-The scope includes, but is not limited to, the following:
+This repository contains information about a introductory engineering course about electro-robot design.
 
-Robot Design
+The course introduces engineering design thinking, electronic equipment, basic circuit components in theory, integrated circuit chips which used these components and introduced the electronics present in these integrated circuit chips (at a high level). 
 
-Electronic Circuits & Integrated Circuits - using PSpice & Cadence
-Signals and Systems - using MATLAB
-
-Investigating Wireless Communication channels - using MATLAB
-
-Statistics - using Python (Jupyter Notebook)
-
-Assembly Language - using DrMIPs software
-
-FPGA Design - using Vivado by AMD (based in VHDL)
-
-
-The above is a brief outline. 
