@@ -1,0 +1,25 @@
+This project was to build a path-following robot that operates on a provided path. The path is outlined by white track on a black background board. 
+
+
+Infra-red (IR) sensors
+H-bridge IC (HD74HC14P)
+DC linear voltage regulator IC (LM7805) 
+Motor Driver IC (L293D)
+Arduino Nano - Microcontroller (MCU)
+
+Throughout the months that preceded the project assignment, I learnt to use a digital signal oscilloscope, multimeter and power supply. The project made use of breadboards and jumper wires. 
+
+Below are some project implementation photographs.
+
+The robot working principle is described briefly below:
+
+Infrared sensors using LED's were used to detect the path at a frequency of 1kHz. When the path changed, the ON/OFF status of the indicator LED on the infrared sensors changed accordingly. 
+This was used to adjust the rotation directions of motors attached to the left & right wheel, as well as speed of the individual motors. This allows for directional control & speed control. 
+
+
+Takeaways:
+Apart from the practical exposure to essential electronic engineering equipment, this course introduced the engineering design process. 
+
+
+
+
